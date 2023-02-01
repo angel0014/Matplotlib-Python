@@ -7,9 +7,9 @@ Matplotlib es una biblioteca de visualización de datos para Python que permite 
 
 Antes de comenzar a utilizar este repositorio, es necesario instalar Matplotlib. Esto se puede hacer fácilmente a través de pip:
 
-´´´
+¨¨¨
 pip install matplotlib
-´´´
+
 
 
 ## Introducción
