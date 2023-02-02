@@ -23,4 +23,4 @@ El código en este repositorio está escrito en Python y hace uso de la bibliote
 
 ## 👍Contribuciones
 
-Este repositorio está abierto a contribuciones. Si tienes ideas para mejorar el análisis o quieres añadir nuevas funcionalidades, ¡no dudes en hacer una pull request!
+Este repositorio está abierto a contribuciones. Si tienes ideas para mejorar el análisis o quieres añadir nuevas funcionalidades, ¡no dudes en hacer un pull request!
