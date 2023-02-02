@@ -1,6 +1,7 @@
 # 📊Análisis de la base de datos exoplanetas con Matplotlib
 
-Este repositorio contiene un análisis de la base de datos de exoplanetas confirmados y se encuentra en la base de datos llamada Open Exoplanet Catalogue (https://www.kaggle.com/mrisdal/open-exoplanet-catalogue). El objetivo de este proyecto es visualizar y explorar los datos de exoplanetas descubiertos entre 1988 y 2018.
+Este repositorio contiene un análisis de la base de datos de exoplanetas confirmados donde la infomación se encuentra recopilada en la base de datos llamada Open Exoplanet Catalogue (https://www.kaggle.com/mrisdal/open-exoplanet-catalogue). En el archivo “exoplanetas.csv” encontrarás una versión simplificada de los datos originales.
+El objetivo de este proyecto es visualizar y explorar los datos de exoplanetas descubiertos entre 1988 y 2018.
 
 Astronomía es la ciencia que se encarga del estudio de los cuerpos celestes, su origen, evolución, composición, movimiento y interacción entre ellos. Incluye la observación y análisis de estrellas, planetas, galaxias, nebulosas, entre otros, así como la búsqueda de comprender el universo y su historia.
 También es una de las pocas ciencias en las que los aficionados aún pueden desempeñar un papel activo, especialmente en el descubrimiento y el seguimiento de fenómenos como curvas de luz de estrellas variables, descubrimiento de asteroides y cometas, entre otros.
