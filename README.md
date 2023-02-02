@@ -1,4 +1,4 @@
-<h1 style="color:blue;">📊Análisis de la base de datos exoplanetas con Matplotlib</h1>
+<h2 style="color:blue;">📊Análisis de la base de datos exoplanetas con Matplotlib</h2>
 
 Este repositorio contiene un análisis de la base de datos de exoplanetas confirmados donde la infomación se encuentra recopilada en la base de datos llamada Open Exoplanet Catalogue (https://www.kaggle.com/mrisdal/open-exoplanet-catalogue). En el archivo “exoplanetas.csv” encontrarás una versión simplificada de los datos originales.
 El objetivo de este proyecto es visualizar y explorar los datos de exoplanetas descubiertos entre 1988 y 2018.
